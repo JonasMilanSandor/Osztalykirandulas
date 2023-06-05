@@ -1,0 +1,59 @@
+html{
+    margin: auto;
+    text-align: center;
+    font-size: 110%;
+    scroll-behavior: smooth;
+    background: radial-gradient(
+        farthest-corner at 20px 20px,
+        blue 25%,
+        yellow 55%,
+        lightgreen 100%
+        );
+}
+
+
+table{
+    width: 600px;
+    margin: auto;
+    border: 1px black solid;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#nagyallo{
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+}
+
+hr{
+    width: 1000px;
+    border: black solid 1px ;
+}
+
+#szallaskep{
+    border: 1px black solid;
+    width: 50%;
+    height: 50%;
+}
+
+#fovaroskep{
+    border: 1px black solid;
+    width: 50%;
+    height: 50%;
+}
+
+#termeszetMkep{
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+}
+
+#nyugati{
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+}
